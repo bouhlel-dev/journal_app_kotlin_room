@@ -11,8 +11,7 @@ a clone of the ios journal app but for android!
 ✅ **Edit and Delete Entries** – Modify or remove past journal entries as needed.  
 ✅ **Local Storage with Room** – Data is stored directly on the device using Room Database.  
 ✅ **Modern UI** – Simple and intuitive design using Material Design components.  
-✅ **Search and Filter** – Easily find past journal entries.  
-✅ **Dark Mode Support** – Enjoy journaling in light or dark mode.  
+
 
 ---
 
